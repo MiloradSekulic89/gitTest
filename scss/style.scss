@@ -1,0 +1,23 @@
+@import 'var';
+@import 'mixins';
+
+head, body{
+
+    width: $max_width;
+    height: $max_height;
+}
+
+header{
+
+    border: solid black 1px;
+    width: 80%;
+    margin-left: 10%;
+    color: gray;
+
+}
+
+
+#imeprezime{
+
+    color: black;
+}
